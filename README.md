@@ -32,8 +32,9 @@ There are many features we thought of ,but were unable to put in place due to sh
 ## Authors
 Ion Borziac [GitHub profile](https://github.com/ionb23/)
 - Worked on comaprison page thatrequests multiple apis using async and await when running axios requests through for loop.
+
 Ellijah Wilsher [GitHub profile](https://github.com/Yusen22/)
 - Worked on summary page, retrieving all, styling navbar and the footer.
-Frantiska Rechkova [GitHub profile](https://github.com/FrantiskaAli/)
 
+Frantiska Rechkova [GitHub profile](https://github.com/FrantiskaAli/)
 - Created welcome and home page, wrote README
